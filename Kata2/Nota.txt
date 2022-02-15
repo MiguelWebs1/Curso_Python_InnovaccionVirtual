@@ -1,0 +1,2 @@
+La cata 2 al ser la carpeta de la instalacion no permite github cargar mas de 100 archivos,
+por eso fue comprimido.
